@@ -1,0 +1,35 @@
+# Core Python utilities
+pydantic==2.8.0
+pyyaml==6.0.1
+
+# Audio processing
+sounddevice==0.4.6
+soundfile==0.12.1
+numpy==1.26.4
+
+# Wake word / audio detection
+webrtcvad==2.0.10
+
+# Offline Speech-to-text
+faster-whisper==1.0.2
+
+# Local LLM runtime (GGUF models)
+llama-cpp-python==0.2.90
+
+# Browser control / automation
+pyobjc==10.1
+pyautogui==0.9.54
+
+# JSON schema validation
+jsonschema==4.22.0
+
+# Logging enhancements
+loguru==0.7.2
+
+# Testing
+pytest==8.3.2
+pytest-mock==3.14.0
+
+# CLI tools
+typer==0.12.3
+rich==13.7.1
